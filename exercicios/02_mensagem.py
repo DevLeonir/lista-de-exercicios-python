@@ -1,2 +1,2 @@
-nomes = ['lais', 'leonardo', 'leonir']
-print(f"{'lais'.title()}, Seja bem-vindo(a)!")
+nome = input("Qual é o seu nome? ")
+print(f"{nome.title()}, Seja bem-vindo(a)!")
